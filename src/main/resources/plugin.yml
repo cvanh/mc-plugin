@@ -1,0 +1,10 @@
+name: biggus dickus plugin
+version: 1.0
+api-version: 1.13
+main: de.joeakeem.spigotmc.plugin.template.TemplatePlugin
+
+commands:
+  enrich:
+    description: Makes you rich!
+  coords:
+    description: get the position of a player 
